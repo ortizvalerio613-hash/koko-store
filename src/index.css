@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-palma: #2D5A27;
+  --color-madera: #D4B996;
+  --color-madera-clara: #E8D5B7;
+  --color-arena: #FDFBF7;
+} /* <-- Asegúrate de que esta llave esté ahí */
