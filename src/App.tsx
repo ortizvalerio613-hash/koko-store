@@ -3,7 +3,7 @@ import { AuthProvider } from './context/AuthContext';
 import { CartProvider } from './context/Cartcontext';
 import { Navbar } from './components/layout/Navbar';
 import { Footer } from './components/layout/footer';
-import { Shop } from './pages/shop'; 
+import { Shop } from './pages/Shop'; 
 import { Register } from './pages/Register'; 
 import { Login } from './pages/login'; 
 import { AdminDashboard } from './pages/AdminDashboard'; 
